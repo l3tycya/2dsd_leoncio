@@ -1,0 +1,28 @@
+
+
+* {
+ font-family: arial;
+}
+
+body {
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ background-color: #364fa1;
+}
+.app {
+ background-color: #789dee;
+ padding: 20px;
+ border-radius: 12px;    
+}
+input {
+ margin: 8px 0;
+ padding: 8px;
+}
+#btn-calcular{
+ background-color: rgb(13, 73, 238);
+ color: #fff;
+ padding: 8px;
+ border-radius: 4px;
+}
+
