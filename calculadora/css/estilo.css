@@ -8,12 +8,16 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
-    background-color: #173da5;
+    background-color: #2a458f;
 }
 .app {
     background-color: #6392eb;
     padding: 20px;
     border-radius: 12px;    
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
 }
 input {
     padding: 8px;
@@ -21,11 +25,12 @@ input {
     outline: none;
 }
 #btn-calcular {
-    background-color: rgb(209, 197, 89);
+    background-color: rgb(77, 34, 233);
     color: #fff;
     padding: 12px;
     border: none;
     cursor: pointer;
     border-radius: 4px;
 } 
+
 
